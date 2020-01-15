@@ -18,7 +18,8 @@ $f3 = Base::instance();
 
 //Default route
 $f3->route('GET /', function () {
-    echo 'hello';
+    $view = new Template();
+    echo $view->render('views/all-about-chickens.html');
 });
 
 $f3->run();
