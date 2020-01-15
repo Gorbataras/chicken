@@ -1,6 +1,8 @@
 <?php
-//Taras Gorbachevskiy
-//01-15-20
+/* Taras Gorbachevskiy
+ * 01-15-20
+ * /IT328/chicken/index.php
+ */
 
 //CONTROLLER
 //Turn on error reporting
